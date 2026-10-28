@@ -4,6 +4,10 @@
 </p>
 
 <p align="center">
+  <img src="profile.png" width="160" alt="Amal JALLOULI"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student+%F0%9F%8E%93;LLMs+%7C+NLP+%7C+Computer+Vision+%7C+Data+Engineering;Turning+data+into+intelligent+products" alt="Typing SVG" />
 </p>
 
